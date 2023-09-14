@@ -1,0 +1,51 @@
+.football-score {
+  width: 600px;
+  background-color: #272727;
+  border: 5px solid #fff;
+  border-radius: 15px;
+
+  .team-name {
+    border-bottom: 5px solid #fff;
+    font-size: 38px;
+  }
+
+  .score {
+    font-size: 50px;
+
+    .score-1 {
+      padding-left: 60px;
+    }
+
+    .score-2 {
+      padding-right: 60px;
+    }
+  }
+}
+
+.football-score-controller {
+  width: 600px;
+  background-color: #272727;
+  border: 5px solid #fff;
+  border-radius: 15px;
+
+  h2 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+
+  .team-name {
+    padding-top:15px;
+    border-top: 5px solid #fff;
+    border-bottom: 5px solid #fff;
+    font-size: 38px;
+  }
+
+  .team-home-button {
+    border-right: 5px solid #fff;
+    padding-left: 45px;
+  }
+
+  .team-guest-button {
+    padding-left: 45px;
+  }
+}

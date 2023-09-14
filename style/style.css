@@ -1,0 +1,43 @@
+.football-score {
+  width: 600px;
+  background-color: #272727;
+  border: 5px solid #fff;
+  border-radius: 15px;
+}
+.football-score .team-name {
+  border-bottom: 5px solid #fff;
+  font-size: 38px;
+}
+.football-score .score {
+  font-size: 50px;
+}
+.football-score .score .score-1 {
+  padding-left: 60px;
+}
+.football-score .score .score-2 {
+  padding-right: 60px;
+}
+
+.football-score-controller {
+  width: 600px;
+  background-color: #272727;
+  border: 5px solid #fff;
+  border-radius: 15px;
+}
+.football-score-controller h2 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.football-score-controller .team-name {
+  padding-top: 15px;
+  border-top: 5px solid #fff;
+  border-bottom: 5px solid #fff;
+  font-size: 38px;
+}
+.football-score-controller .team-home-button {
+  border-right: 5px solid #fff;
+  padding-left: 45px;
+}
+.football-score-controller .team-guest-button {
+  padding-left: 45px;
+}/*# sourceMappingURL=style.css.map */
